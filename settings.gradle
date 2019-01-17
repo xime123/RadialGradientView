@@ -1,1 +1,1 @@
-include ':app', ':anotation'
+include ':app'
